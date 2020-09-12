@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<beans xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns="http://www.springframework.org/schema/beans" xsi:schemaLocation="http://www.springframework.org/schema/beans schema.xsd" profile="string" default-lazy-init="false" default-merge="default" default-autowire="byName" default-autowire-candidates="string" default-init-method="string" default-destroy-method="string" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <description />
+  <bean name="string" class="string" parent="string" scope="string" autowire="byName" depends-on="string" autowire-candidate="false" primary="true" init-method="string" destroy-method="string" factory-method="string" factory-bean="string" id="string">
+    <description />
+    <qualifier />
+    <constructor-arg />
+  </bean>
+  <import resource="string" />
+  <alias name="string" alias="string" />
+  <beans profile="string" default-lazy-init="default" default-merge="default" default-autowire="default" default-autowire-candidates="string" default-init-method="string" default-destroy-method="string">
+    <description />
+    <alias name="string" alias="string" />
+    <bean />
+    <import resource="string" />
+    <beans default-lazy-init="default">
+      <beans>
+        <description />
+        <import resource="string" />
+        <beans />
+        <beans />
+        <beans />
+        <beans />
+      </beans>
+    </beans>
+    <beans profile="string" default-lazy-init="true" default-merge="default">
+      <alias name="string" alias="string" />
+      <bean />
+      <beans>
+        <bean />
+        <bean />
+        <alias name="string" alias="string" />
+      </beans>
+      <beans>
+        <beans />
+        <beans />
+        <beans />
+      </beans>
+      <beans>
+        <description />
+        <alias name="string" alias="string" />
+        <beans />
+      </beans>
+      <beans>
+        <beans />
+      </beans>
+    </beans>
+    <beans profile="string" default-autowire="default">
+      <bean />
+      <import resource="string" />
+      <beans>
+        <description />
+        <alias name="string" alias="string" />
+        <import resource="string" />
+        <beans />
+      </beans>
+      <beans>
+        <bean />
+        <alias name="string" alias="string" />
+        <alias name="string" alias="string" />
+        <beans />
+        <beans />
+        <beans />
+        <beans />
+      </beans>
+    </beans>
+  </beans>
+  <beans profile="string" default-lazy-init="true" default-merge="false" default-autowire="no" default-autowire-candidates="string" default-init-method="string" default-destroy-method="string">
+    <description />
+    <bean />
+    <alias name="string" alias="string" />
+    <beans profile="string" default-autowire="default" default-autowire-candidates="string" default-init-method="string">
+      <alias name="string" alias="string" />
+      <bean />
+    </beans>
+    <beans profile="string" default-lazy-init="true" default-merge="default" default-autowire="no" default-autowire-candidates="string" default-destroy-method="string">
+      <description />
+      <beans>
+        <description />
+        <import resource="string" />
+        <alias name="string" alias="string" />
+        <beans />
+        <beans />
+      </beans>
+      <beans>
+        <import resource="string" />
+        <alias name="string" alias="string" />
+        <beans />
+        <beans />
+        <beans />
+        <beans />
+      </beans>
+    </beans>
+    <beans profile="string" default-merge="false" default-autowire="default" default-autowire-candidates="string" default-init-method="string">
+      <description />
+      <bean />
+      <import resource="string" />
+      <beans>
+        <beans />
+        <beans />
+      </beans>
+      <beans>
+        <import resource="string" />
+      </beans>
+      <beans>
+        <description />
+        <import resource="string" />
+        <alias name="string" alias="string" />
+        <beans />
+      </beans>
+    </beans>
+    <beans default-lazy-init="true" default-merge="default" default-autowire="no" default-autowire-candidates="string" default-init-method="string">
+      <description />
+      <alias name="string" alias="string" />
+      <beans>
+        <bean />
+        <alias name="string" alias="string" />
+        <import resource="string" />
+        <import resource="string" />
+        <beans />
+        <beans />
+        <beans />
+      </beans>
+      <beans>
+        <description />
+        <beans />
+        <beans />
+      </beans>
+      <beans>
+        <import resource="string" />
+        <alias name="string" alias="string" />
+        <bean />
+        <beans />
+        <beans />
+        <beans />
+      </beans>
+    </beans>
+  </beans>
+</beans>

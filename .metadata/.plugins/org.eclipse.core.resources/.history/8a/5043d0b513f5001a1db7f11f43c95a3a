@@ -1,0 +1,14 @@
+package springIntro;
+
+public class CustomerManager {
+	
+	//private ICustomerDal customerDal;
+	
+	public void add() {
+		//is kuralları
+		CustomerDal customerDal = new CustomerDal();
+		customerDal.add();
+		
+	}
+
+}

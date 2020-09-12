@@ -1,0 +1,27 @@
+package springIntro;
+
+public class CustomerManager implements ICustomerService {
+	
+	private ICustomerDal customerDal;
+	private ICustomerService customerService;
+	
+	public CustomerManager(ICustomerService customerService) {
+		
+		this.customerService = customerService;
+	}
+
+	public CustomerManager(ICustomerDal customerDal) {
+		
+		this.customerDal = customerDal;
+	}
+
+	public void add() {
+		//is kuralları
+		//CustomerDal customerDal = new CustomerDal();
+		customerDal.add();
+		customerService.add();
+		
+		
+	}
+
+}
